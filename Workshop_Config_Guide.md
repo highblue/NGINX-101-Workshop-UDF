@@ -4,7 +4,7 @@
 
 1. Navigate to UDF <https://udf.f5.com/courses> and login with creditials that were emailed to you from noreply@registration.udf.f5.com
 2. You should see an event Happening now. Click on the Launch link at the far right.
-3. Click the Jion button.
+3. Click the Join button.
 4. On the top of the page, click on the Deployment tab. Note that the VM will take a minute to provision and will be ready when you have a green arrow next to the nginx-plus VM.
 5. To use your VM, click the "Access" link on the NGINX-Plus host and use the Web Shell
 6. Note that in the web shell to paste on Windows, use ctrl-shift-v
